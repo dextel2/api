@@ -1,3 +1,4 @@
 {
-	"mongoURI": "mongodb+srv://karankeyash:5iQjbOd5VsALNtKL@core-server-nosql.62k6j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+	"mongoURI": "mongodb+srv://karankeyash:5iQjbOd5VsALNtKL@core-server-nosql.62k6j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"jwtSecret": "$2$6$Y"
 }
